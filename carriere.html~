@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8"/>
+		<title>Michael Schumacher</title>
+		<link rel="stylesheet" type="text/css" href="main.css"/>
+	</head>
+	<body>
+		<div id="main"></div>
+		<div id="content">
+			<div id="table">
+				<h3 class="avant">Résultats avant la retraite (1991-2006) :</h3>
+				<ol start="1991" class="avant">
+					<li><a href="Benetton1992.jpg"><img class="a" src="Benetton1992.jpg"/></a>Après avoir débuté à la 11e épreuve de la saison, il participe au six dernières course et termine la saison à la 12e placce avec 4 points.</li>
+					<li>Schumacher termine sa première saison complète avec Benetton avec une victoire et 53 points. Il est à la 3e position.</li>
+					<li>La deuxième saison est comparable à la précédente. Il récolte une victoires et 52 points.<br/> Il termine 4e.</li>
+					<li>Champion du monde. 92 points et 8 victoires.</li>
+					<li>Champion du monde. 102 points et 9 victoires.</li>
+					<li><a href="Schumacher1996.jpg"><img class="a" src="Schumacher1996.jpg"/></a>Première saison chez Ferrari. Il termine 3e avec trois victoires.</li>
+					<li>Schumacher est disqualifié. Il obtient tout de même 5 victoires et 78 points.</li>
+					<li>Il termine 2e. Il récolte 86 points et 6 victoires.</li>
+					<li>À cause d'un violent accident, il a du se retirer après le Grand Prix d'Angleterre. Il termine 5e avec 44 point et deux victoires</li>
+					<li>De retour, il remporte le championnat. 108 points et 9 victoires.</li>
+					<li>Champion du monde. 123 points et 9 victoires.</li>
+					<li>Champion du monde. 144 points et 11 victoires.</li>
+					<li><a href="autriche2002.jpg"><img class="a" src="autriche2002.jpg"/></a>Champion du monde. 93 points et 6 victoires.</li>
+					<li>Champion du monde. 148 points et 13 victoires.</li>
+					<li>Première saison sans être champion depuis cinq ans. Il termine 3e avec 62 points et seulement une victoire.</li>
+					<li>Schumacher décide de prendre sa retraite à la fin de la saison. Il termine la saison avec 121 points, 7 victoires et la 2e position.</li>
+				</ol>
+				<h3 class="apres">Résultats après la retraite (2010-aujourd'hui) :</h3>
+				<ol start="2010" class="apres">
+					<li><a href="Singapour2011.jpeg"><img class="a" src="Singapour2011.jpeg"/></a>C'est le grand retour du champion. Il rejoint la nouvelle équipe Mercedes. Il a une saison décevante. Schumacher termine 9e avec 72 points.</li>
+					<li>La seconde saison de son retour est marquée par une voiture non compétitive. Il termine 8e avec 76 points.</li>
+					<li>Il débute la troisième saison de son grand retour dans l'espoir de retrouver la voie vers la victoire.</li>
+				</ol>
+			</div>
+		</div>
+		<div id="head">
+			<p><a href="http://www.michael-schumacher.de/sites/index_en.html?lang2=en">Site officel de Michael Schumacher</a></p>
+			<img class="logo" src="f1.png" alt="michael shumacher dans sa mercedes"/>
+			<h1>Michael Schumacher</h1>
+			<p class="titles" title="Sept championnats remportés en carrière">*&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;*</p>
+			<h2>
+				<a href="accueil.html">Accueil</a>
+				<a href="carriere.html" class="current">Carrière</a>
+				<a href="anecdotes.html">Anecdotes</a>
+				<a href="calendrier.html">Calendrier</a>
+				<a href="photo.html">Photos</a>
+			</h2>
+			<hr/>
+		</div>
+		<div id="foot">
+			<hr/>
+			<p>Tommy Teasdale&nbsp;&copy;&nbsp;2012 - CEGEP de Drummondville<br/><span class="p">Toutes les textes, images et noms déposés appartiennent à leur propriétaire respectif.</span><br/><span class="foot"><a href="http://bluefish.openoffice.nl/">Codé avec l'éditeur de HTML Bluefish.</a></span></p>
+		</div>
+	</body>
+</html>

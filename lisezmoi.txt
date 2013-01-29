@@ -1,0 +1,3 @@
+Site édité par Tommy Teasdale
+
+Page d'accueil: index.html ou accueil.html

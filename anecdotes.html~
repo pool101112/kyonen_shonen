@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8"/>
+		<title>Michael Schumacher</title>
+		<link rel="stylesheet" type="text/css" href="main.css"/>
+	</head>
+	<body>
+		<div id="main"></div>
+		<div id="content">
+			<div id="table">
+				<ul>
+					<li>Lors du premier Grand Prix de sa carrière, Michael Schumacher s'est vu obligé d'abandonner à cause d'un bris mécannique dans le deuxième virage. Il s'était qualifié à la septième place. Certain recontent qu'il aurait pu remporter son premier Grand Prix si il n'aurait pas été victime de bris mécaniques au premier tour.<br/>&nbsp;</li>
+					<li>Dès la fin du Grand Prix de Belgique 1991, la performance de Schumacher provoque la convoitise de son contrat par Benetton. Finalement, l'affaire est portée en justice et Benetton gagne sa cause. Le Grand Prix suivant, Schuamcher se retrouve au volant d'une Benetton.<br/>&nbsp;</li>
+					<li>La mort de Ayrton Senna a été un facteur important pour le premier Championnat remporté par Schumacher en 1994.<br/>&nbsp;</li>
+					<li>Lors du dernier Grand Prix de la saison 1997, sur le circuit de Jerez, Schumacher et Villeneuve se livrent à une bataille épique. Après le deux tiers de la course, Villeneuve fond sur Schumacher et tente de le dépasser dans un virage à droite : Schumacher braque son volant sur la Williams pour fermer la porte et provoque un accrochage. Mais sa manœuvre échoue et Schumacher abandonne. Suite à ce geste anti-sportif, Michael Schumacher est disqualifié du championnat et Villeneuve remporte le titre.<br/>&nbsp;</li>
+					<li>Scumacher ne termine même pas le premier tour de son 200e Grand Prix.<br/>&nbsp;</li>
+					<li>Il détient tout les records excepté les records de précocité et de longivité.<br/>&nbsp;</li>
+					<li>Il n'a gagné aucun Grand Prix durant les 38 courses disputées depuis son grand retour.</li>
+				</ul>
+			</div>
+		</div>
+		<div id="head">
+			<p><a href="http://www.michael-schumacher.de/sites/index_en.html?lang2=en">Site officel de Michael Schumacher</a></p>
+			<img class="logo" src="f1.png" alt="michael shumacher dans sa mercedes"/>
+			<h1>Michael Schumacher</h1>
+			<p class="titles" title="Sept championnats remportés en carrière">*&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;*&nbsp;&nbsp;&nbsp;*</p>
+			<h2>
+				<a href="accueil.html">Accueil</a>
+				<a href="carriere.html">Carrière</a>
+				<a href="anecdotes.html" class="current">Anecdotes</a>
+				<a href="calendrier.html">Calendrier</a>
+				<a href="photo.html">Photos</a>
+			</h2>
+			<hr/>
+		</div>
+		<div id="foot">
+			<hr/>
+			<p>Tommy Teasdale&nbsp;&copy;&nbsp;2012 - CEGEP de Drummondville<br/><span class="p">Toutes les textes, images et noms déposés appartiennent à leur propriétaire respectif.</span><br/><span class="foot"><a href="http://bluefish.openoffice.nl/">Codé avec l'éditeur de HTML Bluefish.</a></span></p>
+		</div>
+	</body>
+</html>

@@ -1,0 +1,286 @@
+﻿body {
+	width: 1000px;
+	margin: auto;
+	background-color: #505050;
+	}
+img{
+border-width: 0px;
+border-style: none;
+}
+#content {
+	width : 1000px;
+	height: 623px;
+	position: absolute;
+	top: 167px;
+	background: silver;
+   background: -webkit-gradient(linear, left top, left bottom, from(silver), to(gray));
+   background: -webkit-linear-gradient(top, silver, gray);
+   background: -moz-linear-gradient(top, silver, gray);
+   background: -ms-linear-gradient(top, silver, gray);
+   background: -o-linear-gradient(top, silver, gray);
+	}
+#content p, li{
+	font-family: arial, sans-serif;
+	text-align: justify;
+	margin-right: 5px;
+	}
+
+#content p.sous{
+	color: DimGray;
+	text-decoration: underline;
+	font-weight: bold;
+	font-size: 17pt;
+	text-align: center;
+	font-style: oblique;
+}
+#content p.sous:hover{
+	color: red;
+	}
+a{
+	color: blue;
+	}
+#head a{
+	text-decoration: none;
+	color: darkturquoise;
+}
+#head  h2 a{
+	text-decoration: none;
+	}
+#head h2 a:hover{
+	color: red;
+	background-color: gray;
+}
+#head {
+	width : 1000px;
+	height: 173px;
+	position: absolute;
+	top: 0px;
+	background-image: url("fond.jpg");
+	background-position: center center;
+	}
+#head hr{
+	width: 1000px;
+	position: absolute;
+	top: 170px;
+	color: DarkTurquoise;
+	}
+#head img.logo{
+	position: absolute;
+	top: -27px;
+	right: 0px;
+	height: 200px;
+}
+#head p{
+	position: absolute;
+	top: -10px;
+	left: 15px;
+	}
+#head p.titles{
+	position: absolute;
+	top: 67px;
+	left: 220px;
+	color: gold;
+	font-size: 26pt;
+	font-family: arial;
+	font-weight: bold;
+	text-decoration: line-through;
+	}
+#head p a{
+	text-decoration: underline;
+	}
+#head p a:hover{
+	color: red;
+	}
+#head h1 {
+	color: #FF0000;
+	font-size: 60pt;
+	width: 950px;
+	position: absolute;
+	top: -45px;
+	left: 10px;
+	font-style: italic;
+	font-weight: bold;
+	font-family: "Georgia","Impact","Comic Sans MS";
+	transform:rotate(-4deg);
+	-ms-transform:rotate(-4deg);
+	-moz-transform:rotate(-4deg);
+	-webkit-transform:rotate(-4deg);
+	-o-transform:rotate(-4deg);
+}
+h2 {
+	position: absolute;
+	top: 95px;
+	font-size: 30pt;
+	background-image: url(menubar.png);
+	background-repeat: repeat-x;
+	text-align: center;
+	width: 1000px;
+	}
+#head  h2 a{
+   border-top: 1px solid #e8e8e8;
+   background: gray;
+   background: -webkit-gradient(linear, left top, left bottom, from(gray), to(black));
+   background: -webkit-linear-gradient(top, gray, black);
+   background: -moz-linear-gradient(top, gray, black);
+   background: -ms-linear-gradient(top, gray, black);
+   background: -o-linear-gradient(top, gray, black);
+   padding: 5px 19px;
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: #00CED1;
+   font-size: 25pt;
+   font-family: Georgia, Serif;
+   text-decoration: none;
+	}
+#head h2 a:hover{
+	border-top-color: black;
+	color: red;
+	background: black;
+	background: -webkit-gradient(linear, left top, left bottom, from(black), to(gray));
+   background: -webkit-linear-gradient(top, black, gray);
+   background: -moz-linear-gradient(top, black, gray);
+   background: -ms-linear-gradient(top, black, gray);
+   background: -o-linear-gradient(top, black, gray);
+}
+#head a.current {
+	color: red;
+}
+#head a.current:hover{
+	color: gold;
+}
+#foot {
+	background: url(foot_2.png) repeat-x;
+	background: url(foot.png) no-repeat bottom right, 
+	url(foot.png) no-repeat bottom left,
+	url("foot_2.png") repeat-x;
+	position: absolute;
+	top: 700px;
+	width: 1000px;
+	height: 90px;
+	}
+#foot p{
+	color: gold;
+	position: absolute;
+	top: 0px;
+	width: 1000px;
+	text-align: center;
+	font-size: 14pt;
+	font-weight: bold;
+	font-variant: small-caps;
+	text-shadow: 2px 2px 4px gray;
+	border: solid 1px transparent; 
+}
+#foot span.foot{
+	font-variant: normal;
+	font-size: 12pt;
+	}
+#foot span.foot a:hover{
+	color: darkred;
+}
+#foot span.p{
+	font-family: arial, sans-serif;
+	font-size: 10pt;
+	color: black;
+}
+h3{
+	color: red;
+}
+h3.avant {
+	font-size: 20pt;
+	position: absolute;
+	top: -10px;
+	}
+h3.apres{
+	font-size: 20pt;
+	position: absolute;
+	top:505px;
+}
+#content p.photo{
+	position: absolute;
+	top: 300px;
+	left: 30px;
+	}
+#table {
+	position: absolute;
+	top: 15px;
+	left: 15px;
+	height: 526px;
+	width: 970px;
+	overflow: auto;
+	z-index: 1;
+	}
+#table caption{
+	color: red;
+	font-size: 14pt;
+}
+#table table{
+	overflow: hidden;
+	width: 950px;
+	margin: auto;
+	}
+#table img{
+	width: 210px;
+}
+#table table.calender{
+	border-collapse: collapse;
+	}
+#table table.calender th{
+	background-color: white;
+	color: red;
+	font-size: 14pt;
+	text-align: center;
+   border: 1px solid black;
+}
+#table table.calender td{
+   border: 1px solid black;
+}
+	}
+#table table.calender tfoot{
+	background-color: transparent;
+	}
+#table img.a{
+	float: right;
+	width: 220px;
+}
+#table img.b{
+	float: left;
+	width: 355px;
+	}
+img.f1{
+	position: absolute;
+	top: 308px;
+	right: 20px;
+}
+img.f2{
+	position: absolute;
+	top: 398px;
+	right: 92px;
+	}
+ol.avant{
+	position: absolute;
+	top: 40px;
+	left: 20px;
+	}
+ol.apres{
+	position: absolute;
+	top: 550px;
+	left: 20px;
+}
+span.a{
+	float: left;
+	}
+span.b{
+	float: right;
+	}
+ul{
+	position: absolute;
+	left: -20px;
+	list-style-image: url("hemet.png");
+	list-style-position: inside;
+	text-align: justify;
+}
